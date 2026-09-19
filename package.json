@@ -1,0 +1,15 @@
+{
+  "name": "actividad-ephemeral",
+  "version": "1.0.0",
+  "description": "Aplicacion Node.js para la actividad 2.3 Ephemeral Environments",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Connie Garcirrojas Camarillo",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
